@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../_lib/Layout";
 import NumberPicker from "./NumberPicker";
 
-interface Props {}
+interface Props { }
 
 export const Exercice3: React.FunctionComponent<Props> = () => {
   return (
